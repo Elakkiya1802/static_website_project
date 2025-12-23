@@ -16,7 +16,7 @@ Deployed a static website using AWS S3, EC2, IAM, Lambda, and VPC.
 ## Project Screenshots
 
 ### S3 Bucket
-![S3 Bucket](S3 bucket.png)
+![S3 Bucket](S3_bucket.png)
 
 ### EC2 Instance
 ![EC2 Instance](EC2-instance.png)
@@ -28,7 +28,7 @@ Deployed a static website using AWS S3, EC2, IAM, Lambda, and VPC.
 ![IAM Role](Role.png)
 
 ### SNS Trigger
-![SNS Trigger](SNS trigger.png)
+![SNS Trigger](SNS_trigger.png)
 
 ### VPC
 ![VPC](VPC.png)
