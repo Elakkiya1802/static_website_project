@@ -11,7 +11,7 @@ Deployed a static website using AWS S3, EC2, IAM, Lambda, and VPC.
 - VPC
 - Apache/Nginx
 
-## Project Screenshots
+
 
 ## Project Screenshots
 
